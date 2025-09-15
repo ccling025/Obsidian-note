@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hw 1.md",
+                "file": "Calculus/Hw 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Hw 1"
             }
+          },
+          {
+            "id": "4ac4962f65c4cd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hw1 我的室友很內卷.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hw1 我的室友很內卷"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e533581bcf9d06a4",
+  "active": "4ac4962f65c4cd17",
   "lastOpenFiles": [
+    "Hw1 我的室友很內卷.md",
+    "國文",
+    "Calculus/Hw 1.md",
     "Calculus/Week 1.md",
-    "Hw 1.md",
     "LaTeX.md",
     "Markdown.md",
     "Calculus",
