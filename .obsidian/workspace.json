@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f1e1423edcd8c6d",
+            "id": "73033be6403f85a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,21 @@
             }
           },
           {
-            "id": "e533581bcf9d06a4",
+            "id": "d6ca18d7121dc18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Hw 1.md",
+                "file": "Calculus/Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hw 1"
-            }
-          },
-          {
-            "id": "4ac4962f65c4cd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Hw 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hw 1"
-            }
-          },
-          {
-            "id": "73033be6403f85a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "普物(一)/Hw1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hw1"
+              "title": "Week 2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1be6bec44d966600",
@@ -213,20 +184,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "73033be6403f85a5",
+  "active": "d6ca18d7121dc18a",
   "lastOpenFiles": [
-    "Pasted image 20250917092652.png",
-    "Pasted image 20250917092623.png",
-    "pics/Pasted image 20250916095225.png",
-    "普物(一)/Hw1.md",
     "Calculus/Hw 1.md",
+    "Calculus/Week 1.md",
+    "Calculus/Week 2.md",
+    "pics/Pasted image 20250917092623.png",
+    "普物(一)/Hw1.md",
+    "pics/Pasted image 20250917092652.png",
+    "pics/Pasted image 20250916095225.png",
     "普物(一)",
     "pics/Pasted image 20250916095942.png",
     "pics/Pasted image 20250916095802.png",
     "pics/Pasted image 20250916095725.png",
     "pics/Pasted image 20250916095544.png",
     "pics/Pasted image 20250916095516.png",
-    "Calculus/Week 1.md",
     "國文/Hw1 我的室友很內卷.md",
     "國文",
     "LaTeX.md",
@@ -236,7 +208,6 @@
     "pics/Pasted image 20250911164704.png",
     "pics/Pasted image 20250911163330.png",
     "pics",
-    "pics/Pasted image 20250911154745.png",
     "program_design_1/Vim.md",
     "數位系統導論",
     "program_design_1/Linux.md",
