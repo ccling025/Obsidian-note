@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Tokyo Night",
+  "accentColor": "#900fcc",
+  "baseFontSize": 19,
+  "theme": "obsidian"
+}
