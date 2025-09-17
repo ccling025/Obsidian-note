@@ -16,21 +16,21 @@ https://hackmd.io/@CynthiaChuang/Basic-LaTeX-Commands
 
 ## 二元關係符號
 
-| 預覽 | 指令 | . | 預覽 | 指令 | . | 預覽 | 指令 |
-|---|---|---|---|---|---|---|---|
-| `$<$` | `<` |  | `$>$` | `>` |  | `$=$` | `=` |
-| `$\le$` | `\le` |  | `$\ge$` | `\ge` |  | `\equiv` | `\equiv` |
-| `\ll` | `\ll` |  | `\gg` | `\gg` |  | `\doteq` | `\doteq` |
-| `\prec` | `\prec` |  | `\succ` | `\succ` |  | `\sim` | `\sim` |
-| `\preceq` | `\preceq` |  | `\succeq` | `\succeq` |  | `\simeq` | `\simeq` |
-| `\subset` | `\subset` |  | `\supset` | `\supset` |  | `\approx` | `\approx` |
-| `\subseteq` | `\subseteq` |  | `\supseteq` | `\supseteq` |  | `\cong` | `\cong` |
-| `\sqsubset` | `\sqsubset` |  | `\sqsupset` | `\sqsupset` |  | `\Join` | `\bowtie` |
-| `\sqsubseteq` | `\sqsubseteq` |  | `\sqsupseteq` | `\sqsupseteq` |  | `\mid` | `\mid` |
-| `\in` | `\in` |  | `\ni` | `\ni` |  | `\propto` | `\propto` |
-| `\vdash` | `\vdash` |  | `\dashv` | `\dashv` |  | `\models` | `\models` |
-| `\perp` | `\perp` |  | `\parallel` | `\parallel` |  | `\smile` | `\smile` |
-| `\frown` | `\frown` |  | `\asymp` | `\asymp` |  |  |  |
+| 預覽            | 指令            | .   | 預覽            | 指令            | .   | 預覽        | 指令        |
+| ------------- | ------------- | --- | ------------- | ------------- | --- | --------- | --------- |
+| $<$           | `<`           |     | `$>$`         | `>`           |     | `$=$`     | `=`       |
+| $\le$         | `\le`         |     | `$\ge$`       | `\ge`         |     | `\equiv`  | `\equiv`  |
+| $\ll$         | `\ll`         |     | `\gg`         | `\gg`         |     | `\doteq`  | `\doteq`  |
+| $\prec$       | `\prec`       |     | `\succ`       | `\succ`       |     | `\sim`    | `\sim`    |
+| `\preceq`     | `\preceq`     |     | `\succeq`     | `\succeq`     |     | `\simeq`  | `\simeq`  |
+| `\subset`     | `\subset`     |     | `\supset`     | `\supset`     |     | `\approx` | `\approx` |
+| `\subseteq`   | `\subseteq`   |     | `\supseteq`   | `\supseteq`   |     | `\cong`   | `\cong`   |
+| `\sqsubset`   | `\sqsubset`   |     | `\sqsupset`   | `\sqsupset`   |     | `\Join`   | `\bowtie` |
+| `\sqsubseteq` | `\sqsubseteq` |     | `\sqsupseteq` | `\sqsupseteq` |     | `\mid`    | `\mid`    |
+| `\in`         | `\in`         |     | `\ni`         | `\ni`         |     | `\propto` | `\propto` |
+| `\vdash`      | `\vdash`      |     | `\dashv`      | `\dashv`      |     | `\models` | `\models` |
+| `\perp`       | `\perp`       |     | `\parallel`   | `\parallel`   |     | `\smile`  | `\smile`  |
+| `\frown`      | `\frown`      |     | `\asymp`      | `\asymp`      |     |           |           |
 
 **可在前面加上 `\not` 得到否定形式，ex：** ``\not <`` 得到 $\not <$  
 
