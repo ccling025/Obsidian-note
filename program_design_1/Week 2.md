@@ -3,6 +3,10 @@ Use:
 - %d for int
 - %c for char
 - %s for string
+- %f for float
+#### Custom format
+- %.1f
+	- 取到小數後1位
 ***
 #### Implement of a simple calculator
 ```C
@@ -27,3 +31,4 @@ Output:
 200
 ```
 *** 
+###
