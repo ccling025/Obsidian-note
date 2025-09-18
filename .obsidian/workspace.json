@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "68bf44797ab551d5",
+        "id": "5c97fd82c273f5de",
         "type": "tabs",
         "children": [
           {
-            "id": "73033be6403f85a5",
+            "id": "751eaa01e70129e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "program_design_1/Week 2.md",
+                "file": "Calculus/Hw/Hw 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
+              "title": "Hw 1"
             }
           },
           {
-            "id": "d6ca18d7121dc18a",
+            "id": "0ffd041d4acc9179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "program_design_1/Linux.md",
-                "mode": "preview",
+                "file": "To-do List.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "To-do List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,25 +184,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "73033be6403f85a5",
+  "active": "0ffd041d4acc9179",
   "lastOpenFiles": [
     "Calculus/Hw/Hw 1.md",
-    "Calculus/Week 2.md",
-    "Calculus/Hw 1.md",
-    "program_design_1/Week 2.md",
+    "To-do List.md",
     "Calculus/Week 1.md",
-    "program_design_1/Linux.md",
-    "LaTeX.md",
-    "program_design_1/Vim.md",
+    "program_design_1/Week 2.md",
+    "Calculus/Week 2.md",
     "普物(一)/Hw/Hw2.md",
-    "普物(一)/Hw",
+    "LaTeX.md",
     "國文/Week 2.md",
+    "數位系統導論/Week 1.md",
     "國文/Hw/Hw1 我的室友很內卷.md",
-    "國文/Hw",
+    "Markdown.md",
     "Calculus/Hw",
-    "pics/Pasted image 20250917092623.png",
-    "普物(一)/Hw1.md",
+    "普物(一)/Hw",
+    "國文/Hw",
     "pics/Pasted image 20250917092652.png",
+    "pics/Pasted image 20250917092623.png",
+    "Pasted image 20250917092652.png",
+    "Pasted image 20250917092623.png",
     "pics/Pasted image 20250916095225.png",
     "普物(一)",
     "pics/Pasted image 20250916095942.png",
@@ -209,15 +211,13 @@
     "pics/Pasted image 20250916095725.png",
     "pics/Pasted image 20250916095544.png",
     "pics/Pasted image 20250916095516.png",
-    "國文/Hw1 我的室友很內卷.md",
     "國文",
-    "Markdown.md",
     "Calculus",
-    "數位系統導論/Week 1.md",
-    "pics/Pasted image 20250911164704.png",
-    "pics/Pasted image 20250911163330.png",
     "pics",
+    "program_design_1/Vim.md",
     "數位系統導論",
+    "program_design_1/Linux.md",
+    "program_design_1/Week 1.md",
     "Welcome.md",
     "program_design_1"
   ]
