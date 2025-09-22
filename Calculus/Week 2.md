@@ -79,3 +79,5 @@ $$
 &\Rightarrow \text{by squeeze rule } \lim_{x\to 0} \frac{\sin x}{x}=1\#
 \end{align}
 $$
+![[IMG_6587.jpeg]]
+
