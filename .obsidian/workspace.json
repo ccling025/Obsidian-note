@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "program_design_1/Linux.md",
-                "mode": "preview",
+                "file": "數位電路導論/Week 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Week 1"
+            }
+          },
+          {
+            "id": "e2d5b3c3225bf9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Hw/Hw 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hw 1"
+            }
+          },
+          {
+            "id": "a978dfd0c27b862a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Week 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,28 +198,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6ca18d7121dc18a",
+  "active": "a978dfd0c27b862a",
   "lastOpenFiles": [
-    "pics/IMG_6608.jpeg",
-    "pics/IMG_6590.jpeg",
-    "pics/IMG_6589.jpeg",
+    "Calculus/Hw/Hw 2.md",
+    "Calculus/Hw/Hw 1.md",
+    "數位電路導論/HW/Hw 1.md",
+    "數位電路導論/Week 1.md",
+    "數位電路導論/HW",
     "pics/IMG_6588.jpeg",
     "Calculus/Week 2.md",
-    "Calculus/Hw/Hw 1.md",
-    "pics/IMG_6587.jpeg",
+    "Calculus/Week 1.md",
+    "program_design_1/Linux.md",
+    "pics/IMG_6608.jpeg",
     "pics/IMG_6607.jpeg",
     "pics/IMG_6606.jpeg",
     "pics/IMG_6605.jpeg",
     "pics/IMG_6604.jpeg",
-    "pics/IMG_6603.jpeg",
     "pics/IMG_6602.jpeg",
+    "pics/IMG_6600.jpeg",
+    "pics/IMG_6599.jpeg",
+    "pics/IMG_6598.jpeg",
     "普物(一)/Hw/Hw2.md",
-    "數位系統導論/Week 1.md",
     "To-do List.md",
     "program_design_1/Week 2.md",
     "Calculus/Hw 1.md",
-    "Calculus/Week 1.md",
-    "program_design_1/Linux.md",
     "LaTeX.md",
     "program_design_1/Vim.md",
     "普物(一)/Hw",
@@ -205,7 +236,7 @@
     "Markdown.md",
     "Calculus",
     "pics",
-    "數位系統導論",
+    "數位電路導論",
     "Welcome.md",
     "program_design_1"
   ]

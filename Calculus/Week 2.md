@@ -80,4 +80,12 @@ $$
 \end{align}
 $$
 ![[IMG_6587.jpeg]]
+![[IMG_6600.jpeg]]
+![[IMG_6602.jpeg]]
+![[IMG_6604.jpeg]]
+![[IMG_6605.jpeg]]
+![[IMG_6606.jpeg]]
+![[IMG_6607.jpeg]]
+![[IMG_6608.jpeg]]
+
 
